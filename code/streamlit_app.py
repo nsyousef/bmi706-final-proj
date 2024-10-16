@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import altair as alt
+alt.data_transformers.disable_max_rows() # allow more than 5000 rows
 
 # load and wrangle the data
 @st.cache_data
