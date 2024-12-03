@@ -6,6 +6,10 @@ Ava Harrington, Yung-Fang Tu, Nicholas Yousefi
 
 The purpose of this app is to allow people to visualize mental health trends during the COVID-19 pandemic.
 
+## Link to App
+
+https://mental-health-covid-trends.streamlit.app/
+
 ## Repo Structure
 
 `code`: contains all code files needed to run the app
