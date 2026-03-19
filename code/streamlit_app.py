@@ -34,7 +34,7 @@ st.write("## Dataset")
 
 st.write(
     """
-    Here, we vizualize mental health data collected by the National Center for Health Statistics (NCHS) partnered with the Census Bureau. The data were collected via a survey called the Household Pulse survey. The survey asked patients to report if they had experienced symptoms of anxiety or depression over the last 7 days. The survey reports percentages of respondents reporting symptoms of anxiety or depression in the last 7 days.
+    Here, we visualize mental health data collected by the National Center for Health Statistics (NCHS) partnered with the Census Bureau. The data were collected via a survey called the Household Pulse survey. The survey asked patients to report if they had experienced symptoms of anxiety or depression over the last 7 days. The survey reports percentages of respondents reporting symptoms of anxiety or depression in the last 7 days.
     """
 )
 
